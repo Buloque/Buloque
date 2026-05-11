@@ -1,6 +1,7 @@
-# Bem vindo ao Readme do Vinicius Quadros *(💥💥Vulgo Detona Codigo💥💥)*
+# *Bem vindo* ao Readme do *Vinícius Quadros* ![Static Badge](https://img.shields.io/badge/Vulgo_Detona_Codigo-red)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vinicius_Dornelles)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vinícius-Dornelles-555863200)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusquadroscontato@gmail.com) <!--verificar Email -->
 
 > 🎓 *Atualmente estudando na área de tecnologia*
