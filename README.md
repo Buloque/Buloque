@@ -22,6 +22,17 @@
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
+## 🏆 Desafios
 
+<div align="center">
+  
+  [![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Buloque)
+  
+  <a href="https://www.hackerrank.com/Buloque">
+    <img src="https://hackerrank-badges.vercel.app/Buloque" alt="Estatísticas do HackerRank" height="180"/>
+  </a>
+  
+  <br>
+</div>
 
 
