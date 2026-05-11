@@ -28,14 +28,7 @@ Ferramentas & Ambientes
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-
-<!-- Rodapé decorativo -->
-<div align="center">
-<sub>Feito com ❤️ e código por <strong>Buloque</strong> © 2026</sub>
-<br>
-<img src="https://komarev.com/ghpvc/?username=Buloque&label=Visitas%20no%20Perfil&color=0e75b6&style=flat-square" alt="Contador de visitas"/>
-</div>
 ```
-```diff
+
 
 
