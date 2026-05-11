@@ -10,9 +10,6 @@
 ---
 
 ## 🚀 Sobre mim
-
-```diff
-
 💻 Stack & Tecnologias
 Linguagens de Programação
 <p align="left">
@@ -62,3 +59,6 @@ Ferramentas & Ambientes
 <img src="https://komarev.com/ghpvc/?username=Buloque&label=Visitas%20no%20Perfil&color=0e75b6&style=flat-square" alt="Contador de visitas"/>
 </div>
 ```
+```diff
+
+
