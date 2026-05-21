@@ -1,4 +1,4 @@
-# *Bem vindo* ao Readme do *Vinícius Quadros* ![Static Badge](https://img.shields.io/badge/Vulgo_Detona_Codigo-red)
+# *Bem vindo* ao Readme do *Vinícius Quadros*
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vinícius-Dornelles-555863200)
